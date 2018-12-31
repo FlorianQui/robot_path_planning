@@ -29,3 +29,9 @@ This part can control robot with velocity vector (linear and angular). First of 
 Then, you should see the results.
 
 A video that explained the path planner is [available](https://www.youtube.com/watch?v=Py5hc2e-1P4&feature=youtu.be&fbclid=IwAR1rhgxYFMu62zpzVrZ7MOx7avrtlYMkAouFs4nl09Y_n_gcna1DN7q2B2g)
+
+## Collaborators
+
+Brice Parilusyan
+Florian Quibel
+Florian Prigent
